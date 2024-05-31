@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @KhatiaChip
+- 👋 Hi, I’m Khatia , from California 
 - 👀 I’m interested in create new and amazing designs.
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently searching for a job.
 - 📫 How to reach me Khchiph@gmail.com
 - 😄 Pronouns: She /Her/Hers
-- ⚡ Fun fact: Want to learn everything 
+- ⚡ Fun fact: Want to learn and increase my skills.
 
 <!---
 KhatiaChip/KhatiaChip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
